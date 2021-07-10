@@ -1,5 +1,5 @@
 {
-	"tvShows": [
+	"contentList": [
 		{
 			"categoryHeader": "Great all time Tv Shows",
 			"listItems": [
@@ -9,7 +9,7 @@
 					"releaseDateAndRating": "October 26, 2016",
 					"meta_score": "Metascore:\n\n99",
 					"user_score": "User Score:\n\n8.6",
-					"rank": "1.",
+					"list_rank": "1.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/73cb1a676477b2f19058fac1ca57a4f4-98.jpg"
 				},
 				{
@@ -18,7 +18,7 @@
 					"releaseDateAndRating": "July 19, 1995",
 					"meta_score": "Metascore:\n\n99",
 					"user_score": "User Score:\n\n5.8",
-					"rank": "2.",
+					"list_rank": "2.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/6e3d8b562b95c82cd4b1c43e0b2b2721-98.jpg"
 				},
 				{
@@ -27,7 +27,7 @@
 					"releaseDateAndRating": "September 19, 1995",
 					"meta_score": "Metascore:\n\n99",
 					"user_score": "User Score:\n\n6.4",
-					"rank": "3.",
+					"list_rank": "3.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/0dbe20d1432d4dc9d85f5d0cdd7c6439-98.jpg"
 				},
 				{
@@ -36,7 +36,7 @@
 					"releaseDateAndRating": "March 15, 1998",
 					"meta_score": "Metascore:\n\n99",
 					"user_score": "User Score:\n\n5.5",
-					"rank": "4.",
+					"list_rank": "4.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/6e3d8b562b95c82cd4b1c43e0b2b2721-98.jpg"
 				},
 				{
@@ -45,7 +45,7 @@
 					"releaseDateAndRating": "July 15, 2012",
 					"meta_score": "Metascore:\n\n99",
 					"user_score": "User Score:\n\n9.6",
-					"rank": "5.",
+					"list_rank": "5.",
 					"image_url": "https://static.metacritic.com/images/products/tv/2/ac04956caf6d3ec537238f8a6899a18b-98.jpg"
 				},
 				{
@@ -54,7 +54,7 @@
 					"releaseDateAndRating": "December 26, 2003",
 					"meta_score": "Metascore:\n\n98",
 					"user_score": "User Score:\n\n8.5",
-					"rank": "6.",
+					"list_rank": "6.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/8a3b3b532241017bb81a276f721bdbd8-98.jpg"
 				},
 				{
@@ -63,7 +63,7 @@
 					"releaseDateAndRating": "July 9, 2001",
 					"meta_score": "Metascore:\n\n98",
 					"user_score": "User Score:\n\n8.6",
-					"rank": "7.",
+					"list_rank": "7.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/8a3b3b532241017bb81a276f721bdbd8-98.jpg"
 				},
 				{
@@ -72,7 +72,7 @@
 					"releaseDateAndRating": "May 30, 2021",
 					"meta_score": "Metascore:\n\n98",
 					"user_score": "User Score:\n\n9.1",
-					"rank": "8.",
+					"list_rank": "8.",
 					"image_url": "https://static.metacritic.com/images/products/tv/9/700d4ce4c98b34d744629cea3e285eaf-98.jpg"
 				},
 				{
@@ -81,7 +81,7 @@
 					"releaseDateAndRating": "April 16, 2017",
 					"meta_score": "Metascore:\n\n98",
 					"user_score": "User Score:\n\n9.1",
-					"rank": "9.",
+					"list_rank": "9.",
 					"image_url": "https://static.metacritic.com/images/products/tv/7/19a260dc4faa38b42e191ccf79a9a57e-98.jpg"
 				},
 				{
@@ -90,7 +90,7 @@
 					"releaseDateAndRating": "September 19, 2004",
 					"meta_score": "Metascore:\n\n98",
 					"user_score": "User Score:\n\n9.4",
-					"rank": "10.",
+					"list_rank": "10.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/6c15c17ed464350aa8b646ca1391ef6b-98.jpg"
 				},
 				{
@@ -99,7 +99,7 @@
 					"releaseDateAndRating": "September 10, 2006",
 					"meta_score": "Metascore:\n\n98",
 					"user_score": "User Score:\n\n9.5",
-					"rank": "11.",
+					"list_rank": "11.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/6c15c17ed464350aa8b646ca1391ef6b-98.jpg"
 				},
 				{
@@ -108,7 +108,7 @@
 					"releaseDateAndRating": "January 16, 2000",
 					"meta_score": "Metascore:\n\n97",
 					"user_score": "User Score:\n\n9.3",
-					"rank": "12.",
+					"list_rank": "12.",
 					"image_url": "https://static.metacritic.com/images/products/tv/3/590b2cfc1fc029712fe134af14bc1ee5-98.jpg"
 				},
 				{
@@ -117,7 +117,7 @@
 					"releaseDateAndRating": "November 13, 1996",
 					"meta_score": "Metascore:\n\n97",
 					"user_score": "User Score:\n\n6.0",
-					"rank": "13.",
+					"list_rank": "13.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/6e3d8b562b95c82cd4b1c43e0b2b2721-98.jpg"
 				},
 				{
@@ -126,7 +126,7 @@
 					"releaseDateAndRating": "January 20, 2018",
 					"meta_score": "Metascore:\n\n97",
 					"user_score": "User Score:\n\n8.3",
-					"rank": "14.",
+					"list_rank": "14.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/b7562a2dea7598236c1380fe911080cf-98.jpg"
 				},
 				{
@@ -135,7 +135,7 @@
 					"releaseDateAndRating": "March 1, 2018",
 					"meta_score": "Metascore:\n\n97",
 					"user_score": "User Score:\n\n8.2",
-					"rank": "15.",
+					"list_rank": "15.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/50e94f1be303e30486d2a9d19ab89662-98.jpg"
 				},
 				{
@@ -144,7 +144,7 @@
 					"releaseDateAndRating": "March 4, 2001",
 					"meta_score": "Metascore:\n\n97",
 					"user_score": "User Score:\n\n9.4",
-					"rank": "16.",
+					"list_rank": "16.",
 					"image_url": "https://static.metacritic.com/images/products/tv/3/590b2cfc1fc029712fe134af14bc1ee5-98.jpg"
 				},
 				{
@@ -153,7 +153,7 @@
 					"releaseDateAndRating": "August 26, 2018",
 					"meta_score": "Metascore:\n\n96",
 					"user_score": "User Score:\n\n5.6",
-					"rank": "17.",
+					"list_rank": "17.",
 					"image_url": "https://static.metacritic.com/images/products/tv/2/d8c3487e22f9b50f6005e8e97a834c1d-98.jpg"
 				},
 				{
@@ -162,7 +162,7 @@
 					"releaseDateAndRating": "September 30, 2012",
 					"meta_score": "Metascore:\n\n96",
 					"user_score": "User Score:\n\n8.3",
-					"rank": "18.",
+					"list_rank": "18.",
 					"image_url": "https://static.metacritic.com/images/products/tv/7/7b8ff04441ee2f677d1859d68466e02f-98.jpg"
 				},
 				{
@@ -171,7 +171,7 @@
 					"releaseDateAndRating": "April 8, 1990",
 					"meta_score": "Metascore:\n\n96",
 					"user_score": "User Score:\n\n9.3",
-					"rank": "19.",
+					"list_rank": "19.",
 					"image_url": "https://static.metacritic.com/images/products/tv/2/539628c428dbe4a523dabc5006817de2-98.jpg"
 				},
 				{
@@ -180,7 +180,7 @@
 					"releaseDateAndRating": "June 11, 2016",
 					"meta_score": "Metascore:\n\n96",
 					"user_score": "User Score:\n\n8.0",
-					"rank": "20.",
+					"list_rank": "20.",
 					"image_url": "https://static.metacritic.com/images/products/tv/7/e854b9d1c1e8b1a66915b7b6c3cfc58d-98.jpg"
 				},
 				{
@@ -189,7 +189,7 @@
 					"releaseDateAndRating": "July 17, 2011",
 					"meta_score": "Metascore:\n\n96",
 					"user_score": "User Score:\n\n9.5",
-					"rank": "21.",
+					"list_rank": "21.",
 					"image_url": "https://static.metacritic.com/images/products/tv/2/ac04956caf6d3ec537238f8a6899a18b-98.jpg"
 				},
 				{
@@ -198,7 +198,7 @@
 					"releaseDateAndRating": "March 12, 2006",
 					"meta_score": "Metascore:\n\n96",
 					"user_score": "User Score:\n\n8.9",
-					"rank": "22.",
+					"list_rank": "22.",
 					"image_url": "https://static.metacritic.com/images/products/tv/3/590b2cfc1fc029712fe134af14bc1ee5-98.jpg"
 				},
 				{
@@ -207,7 +207,7 @@
 					"releaseDateAndRating": "September 14, 2017",
 					"meta_score": "Metascore:\n\n96",
 					"user_score": "User Score:\n\n7.3",
-					"rank": "23.",
+					"list_rank": "23.",
 					"image_url": "https://static.metacritic.com/images/products/tv/6/d3cf66677ebac773b537c0321f2cfbb0-98.jpg"
 				},
 				{
@@ -216,7 +216,7 @@
 					"releaseDateAndRating": "March 4, 2019",
 					"meta_score": "Metascore:\n\n96",
 					"user_score": "User Score:\n\n8.8",
-					"rank": "24.",
+					"list_rank": "24.",
 					"image_url": "https://static.metacritic.com/images/products/tv/4/9de670e6c0d18055f1e2dc48c2bb9699-98.jpg"
 				},
 				{
@@ -225,7 +225,7 @@
 					"releaseDateAndRating": "October 12, 2015",
 					"meta_score": "Metascore:\n\n96",
 					"user_score": "User Score:\n\n9.2",
-					"rank": "25.",
+					"list_rank": "25.",
 					"image_url": "https://static.metacritic.com/images/products/tv/2/de9c84d0e28953bc1019f1f974d6c896-98.jpg"
 				},
 				{
@@ -234,7 +234,7 @@
 					"releaseDateAndRating": "November 6, 2016",
 					"meta_score": "Metascore:\n\n96",
 					"user_score": "User Score:\n\n9.4",
-					"rank": "26.",
+					"list_rank": "26.",
 					"image_url": "https://static.metacritic.com/images/products/tv/0/69ea9d4c7f0e96a187199a9e07d6916c-98.jpg"
 				},
 				{
@@ -243,7 +243,7 @@
 					"releaseDateAndRating": "April 28, 2017",
 					"meta_score": "Metascore:\n\n96",
 					"user_score": "User Score:\n\n8.1",
-					"rank": "27.",
+					"list_rank": "27.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/06f54ec77cf1bf32eb4724b9a5970add-98.jpg"
 				},
 				{
@@ -252,7 +252,7 @@
 					"releaseDateAndRating": "January 13, 2013",
 					"meta_score": "Metascore:\n\n95",
 					"user_score": "User Score:\n\n7.6",
-					"rank": "28.",
+					"list_rank": "28.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/42942322f2b49c6d270d638481181c8f-98.jpg"
 				},
 				{
@@ -261,7 +261,7 @@
 					"releaseDateAndRating": "April 4, 2005",
 					"meta_score": "Metascore:\n\n95",
 					"user_score": "User Score:\n\n6.5",
-					"rank": "29.",
+					"list_rank": "29.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/06aa5fa81f24e148177dbb607fac8811-98.jpg"
 				},
 				{
@@ -270,7 +270,7 @@
 					"releaseDateAndRating": "March 16, 2016",
 					"meta_score": "Metascore:\n\n95",
 					"user_score": "User Score:\n\n9.0",
-					"rank": "30.",
+					"list_rank": "30.",
 					"image_url": "https://static.metacritic.com/images/products/tv/3/171e420454001273405c07081e58e2ba-98.jpg"
 				},
 				{
@@ -279,7 +279,7 @@
 					"releaseDateAndRating": "June 1, 2003",
 					"meta_score": "Metascore:\n\n95",
 					"user_score": "User Score:\n\n9.0",
-					"rank": "31.",
+					"list_rank": "31.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/6c15c17ed464350aa8b646ca1391ef6b-98.jpg"
 				},
 				{
@@ -288,7 +288,7 @@
 					"releaseDateAndRating": "January 31, 1993",
 					"meta_score": "Metascore:\n\n94",
 					"user_score": "User Score:\n\n8.7",
-					"rank": "32.",
+					"list_rank": "32.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/ec80520876c4c8c9f138660ce35d894e-98.jpg"
 				},
 				{
@@ -297,7 +297,7 @@
 					"releaseDateAndRating": "February 28, 2019",
 					"meta_score": "Metascore:\n\n94",
 					"user_score": "User Score:\n\n8.4",
-					"rank": "33.",
+					"list_rank": "33.",
 					"image_url": "https://static.metacritic.com/images/products/tv/6/d3cf66677ebac773b537c0321f2cfbb0-98.jpg"
 				},
 				{
@@ -306,7 +306,7 @@
 					"releaseDateAndRating": "April 6, 2014",
 					"meta_score": "Metascore:\n\n94",
 					"user_score": "User Score:\n\n9.2",
-					"rank": "34.",
+					"list_rank": "34.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/25b577800d6e543af264cab55c5e07d6-98.jpg"
 				},
 				{
@@ -315,7 +315,7 @@
 					"releaseDateAndRating": "October 6, 2006",
 					"meta_score": "Metascore:\n\n94",
 					"user_score": "User Score:\n\n9.1",
-					"rank": "35.",
+					"list_rank": "35.",
 					"image_url": "https://static.metacritic.com/images/products/tv/4/6635860cfcfee0c31d9288c4a0d94b26-98.jpg"
 				},
 				{
@@ -324,7 +324,7 @@
 					"releaseDateAndRating": "December 4, 2015",
 					"meta_score": "Metascore:\n\n94",
 					"user_score": "User Score:\n\n6.6",
-					"rank": "36.",
+					"list_rank": "36.",
 					"image_url": "https://static.metacritic.com/images/products/tv/3/24cb7513b964e5aa7a5d7c9d26583471-98.jpg"
 				},
 				{
@@ -333,7 +333,7 @@
 					"releaseDateAndRating": "June 28, 2012",
 					"meta_score": "Metascore:\n\n94",
 					"user_score": "User Score:\n\n8.8",
-					"rank": "37.",
+					"list_rank": "37.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/683318ad518ed62cc0289d500a3fc01a-98.jpg"
 				},
 				{
@@ -342,7 +342,7 @@
 					"releaseDateAndRating": "March 7, 2017",
 					"meta_score": "Metascore:\n\n94",
 					"user_score": "User Score:\n\n8.4",
-					"rank": "38.",
+					"list_rank": "38.",
 					"image_url": "https://static.metacritic.com/images/products/tv/3/171e420454001273405c07081e58e2ba-98.jpg"
 				},
 				{
@@ -351,7 +351,7 @@
 					"releaseDateAndRating": "September 30, 2002",
 					"meta_score": "Metascore:\n\n93",
 					"user_score": "User Score:\n\n8.9",
-					"rank": "39.",
+					"list_rank": "39.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/8a3b3b532241017bb81a276f721bdbd8-98.jpg"
 				},
 				{
@@ -360,7 +360,7 @@
 					"releaseDateAndRating": "March 6, 2005",
 					"meta_score": "Metascore:\n\n93",
 					"user_score": "User Score:\n\n9.1",
-					"rank": "40.",
+					"list_rank": "40.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/a3fffca34845350b35eb76ec76f2c1c2-98.jpg"
 				},
 				{
@@ -369,7 +369,7 @@
 					"releaseDateAndRating": "October 29, 2020",
 					"meta_score": "Metascore:\n\n93",
 					"user_score": "User Score:\n\n4.4",
-					"rank": "41.",
+					"list_rank": "41.",
 					"image_url": "https://static.metacritic.com/images/products/tv/9/a5332ec02d4bf5a32d5a88205a8eb5fe-98.jpg"
 				},
 				{
@@ -378,7 +378,7 @@
 					"releaseDateAndRating": "September 18, 2020",
 					"meta_score": "Metascore:\n\n93",
 					"user_score": "User Score:\n\n7.3",
-					"rank": "42.",
+					"list_rank": "42.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/e9cb4eb62c36a7c59975ecba874010e8-98.jpg"
 				},
 				{
@@ -387,7 +387,7 @@
 					"releaseDateAndRating": "May 5, 2014",
 					"meta_score": "Metascore:\n\n93",
 					"user_score": "User Score:\n\n8.7",
-					"rank": "43.",
+					"list_rank": "43.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/683318ad518ed62cc0289d500a3fc01a-98.jpg"
 				},
 				{
@@ -396,7 +396,7 @@
 					"releaseDateAndRating": "September 15, 2002",
 					"meta_score": "Metascore:\n\n93",
 					"user_score": "User Score:\n\n8.8",
-					"rank": "44.",
+					"list_rank": "44.",
 					"image_url": "https://static.metacritic.com/images/products/tv/6/4ae69d0cb55fa204daf8cc0e7f17fb7c-98.jpg"
 				},
 				{
@@ -405,7 +405,7 @@
 					"releaseDateAndRating": "October 27, 2005",
 					"meta_score": "Metascore:\n\n93",
 					"user_score": "User Score:\n\n9.0",
-					"rank": "45.",
+					"list_rank": "45.",
 					"image_url": "https://static.metacritic.com/images/products/tv/7/215d09c54d7be881c68b9d4449125c14-98.jpg"
 				},
 				{
@@ -414,7 +414,7 @@
 					"releaseDateAndRating": "November 2, 2018",
 					"meta_score": "Metascore:\n\n93",
 					"user_score": "User Score:\n\n7.8",
-					"rank": "46.",
+					"list_rank": "46.",
 					"image_url": "https://static.metacritic.com/images/products/tv/9/44ace6fa21b00dfcabc59a229dbc7c29-98.jpg"
 				},
 				{
@@ -423,7 +423,7 @@
 					"releaseDateAndRating": "June 22, 1994",
 					"meta_score": "Metascore:\n\n93",
 					"user_score": "User Score:\n\n7.5",
-					"rank": "47.",
+					"list_rank": "47.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/6e3d8b562b95c82cd4b1c43e0b2b2721-98.jpg"
 				},
 				{
@@ -432,7 +432,7 @@
 					"releaseDateAndRating": "March 28, 2018",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n8.2",
-					"rank": "48.",
+					"list_rank": "48.",
 					"image_url": "https://static.metacritic.com/images/products/tv/3/171e420454001273405c07081e58e2ba-98.jpg"
 				},
 				{
@@ -441,7 +441,7 @@
 					"releaseDateAndRating": "July 25, 2010",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n9.0",
-					"rank": "49.",
+					"list_rank": "49.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/494dd0085ea41a5d2d50b962a355062a-98.jpg"
 				},
 				{
@@ -450,7 +450,7 @@
 					"releaseDateAndRating": "March 12, 2002",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n9.3",
-					"rank": "50.",
+					"list_rank": "50.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/37f6892ddad0596b3ce43802bc6a0b1e-98.jpg"
 				},
 				{
@@ -459,7 +459,7 @@
 					"releaseDateAndRating": "February 23, 2020",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n8.8",
-					"rank": "51.",
+					"list_rank": "51.",
 					"image_url": "https://static.metacritic.com/images/products/tv/0/bec2961a77f262b6546773147c21cc35-98.jpg"
 				},
 				{
@@ -468,7 +468,7 @@
 					"releaseDateAndRating": "August 19, 2017",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n8.2",
-					"rank": "52.",
+					"list_rank": "52.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/90d54804d66443ed83e5a2e506825c3a-98.jpg"
 				},
 				{
@@ -477,7 +477,7 @@
 					"releaseDateAndRating": "June 8, 2018",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n7.6",
-					"rank": "53.",
+					"list_rank": "53.",
 					"image_url": "https://static.metacritic.com/images/products/tv/3/870179f7b7d65fa048285887cd70c542-98.jpg"
 				},
 				{
@@ -486,7 +486,7 @@
 					"releaseDateAndRating": "January 28, 2015",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n8.5",
-					"rank": "54.",
+					"list_rank": "54.",
 					"image_url": "https://static.metacritic.com/images/products/tv/3/171e420454001273405c07081e58e2ba-98.jpg"
 				},
 				{
@@ -495,7 +495,7 @@
 					"releaseDateAndRating": "October 11, 1990",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n9.0",
-					"rank": "55.",
+					"list_rank": "55.",
 					"image_url": "https://static.metacritic.com/images/products/tv/2/ab3af004d601914468810fa1bd16cff9-98.jpg"
 				},
 				{
@@ -504,7 +504,7 @@
 					"releaseDateAndRating": "April 23, 2021",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n6.5",
-					"rank": "56.",
+					"list_rank": "56.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/b7b4c9e8996bce8cc5b4193103d5a089-98.jpg"
 				},
 				{
@@ -513,7 +513,7 @@
 					"releaseDateAndRating": "June 19, 2014",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n9.1",
-					"rank": "57.",
+					"list_rank": "57.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/73cb1a676477b2f19058fac1ca57a4f4-98.jpg"
 				},
 				{
@@ -522,7 +522,7 @@
 					"releaseDateAndRating": "October 2, 2011",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n8.3",
-					"rank": "58.",
+					"list_rank": "58.",
 					"image_url": "https://static.metacritic.com/images/products/tv/7/7b8ff04441ee2f677d1859d68466e02f-98.jpg"
 				},
 				{
@@ -530,8 +530,8 @@
 					"description": "Cora (Thuso Mbedu) and Caesar (Aaron Pierre) escape from a plantation and learn the Underground Railroad is an actual physical underground railway line. But a bounty hunter named Ridgeway (Joel Edgerton) is determined to bring Cora back in this Barry Jenkins adaptation of Colson Whitehead's novel of the same name.",
 					"releaseDateAndRating": "May 14, 2021",
 					"meta_score": "Metascore:\n\n92",
-					"user_score": "User Score:\n\n8.2",
-					"rank": "59.",
+					"user_score": "User Score:\n\n8.3",
+					"list_rank": "59.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/5c311a0629ce33fba0192ad2a10fa20b-98.jpg"
 				},
 				{
@@ -540,7 +540,7 @@
 					"releaseDateAndRating": "March 16, 2020",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n8.5",
-					"rank": "60.",
+					"list_rank": "60.",
 					"image_url": "https://static.metacritic.com/images/products/tv/7/d517a3375dd2e07b67cfaffd2ab0c495-98.jpg"
 				},
 				{
@@ -549,7 +549,7 @@
 					"releaseDateAndRating": "April 30, 2017",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n7.9",
-					"rank": "61.",
+					"list_rank": "61.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/250601dd7f2decfc33c022bf413501bc-98.jpg"
 				},
 				{
@@ -558,7 +558,7 @@
 					"releaseDateAndRating": "September 26, 2014",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n7.4",
-					"rank": "62.",
+					"list_rank": "62.",
 					"image_url": "https://static.metacritic.com/images/products/tv/3/24cb7513b964e5aa7a5d7c9d26583471-98.jpg"
 				},
 				{
@@ -567,7 +567,7 @@
 					"releaseDateAndRating": "October 31, 2013",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n8.6",
-					"rank": "63.",
+					"list_rank": "63.",
 					"image_url": "https://static.metacritic.com/images/products/tv/7/549f0cb4e1f7e8027d242ab4c9172a98-98.jpg"
 				},
 				{
@@ -576,7 +576,7 @@
 					"releaseDateAndRating": "August 25, 1994",
 					"meta_score": "Metascore:\n\n92",
 					"user_score": "User Score:\n\n8.5",
-					"rank": "64.",
+					"list_rank": "64.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/5e41b98e03fab88ddd2d510b3121212b-98.jpg"
 				},
 				{
@@ -585,7 +585,7 @@
 					"releaseDateAndRating": "March 15, 2019",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n8.2",
-					"rank": "65.",
+					"list_rank": "65.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/06f54ec77cf1bf32eb4724b9a5970add-98.jpg"
 				},
 				{
@@ -594,7 +594,7 @@
 					"releaseDateAndRating": "September 20, 2013",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n6.9",
-					"rank": "66.",
+					"list_rank": "66.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/c92a871552e2f3a1f2d7c91fe803fd4b-98.jpg"
 				},
 				{
@@ -603,7 +603,7 @@
 					"releaseDateAndRating": "April 9, 2015",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n8.5",
-					"rank": "67.",
+					"list_rank": "67.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/683318ad518ed62cc0289d500a3fc01a-98.jpg"
 				},
 				{
@@ -612,7 +612,7 @@
 					"releaseDateAndRating": "April 12, 2015",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n8.2",
-					"rank": "68.",
+					"list_rank": "68.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/25b577800d6e543af264cab55c5e07d6-98.jpg"
 				},
 				{
@@ -621,7 +621,7 @@
 					"releaseDateAndRating": "January 31, 2020",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n8.6",
-					"rank": "69.",
+					"list_rank": "69.",
 					"image_url": "https://static.metacritic.com/images/products/tv/9/550afe466bcfd77e54b317afa312de77-98.jpg"
 				},
 				{
@@ -630,7 +630,7 @@
 					"releaseDateAndRating": "June 2, 1993",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n7.2",
-					"rank": "70.",
+					"list_rank": "70.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/6e3d8b562b95c82cd4b1c43e0b2b2721-98.jpg"
 				},
 				{
@@ -639,7 +639,7 @@
 					"releaseDateAndRating": "May 12, 2017",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n8.3",
-					"rank": "71.",
+					"list_rank": "71.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/871159a9e8a1c35430f9d996e88b1c64-98.jpg"
 				},
 				{
@@ -648,7 +648,7 @@
 					"releaseDateAndRating": "November 6, 2015",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n7.7",
-					"rank": "72.",
+					"list_rank": "72.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/871159a9e8a1c35430f9d996e88b1c64-98.jpg"
 				},
 				{
@@ -657,7 +657,7 @@
 					"releaseDateAndRating": "October 29, 2011",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n7.4",
-					"rank": "73.",
+					"list_rank": "73.",
 					"image_url": "https://static.metacritic.com/images/products/tv/4/ab6d8ece1d2ac42f11bc40ae8630c44f-98.jpg"
 				},
 				{
@@ -666,7 +666,7 @@
 					"releaseDateAndRating": "February 9, 2011",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n9.3",
-					"rank": "74.",
+					"list_rank": "74.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/2b03a97f21d7610731f5b5a2ff0fcc90-98.jpg"
 				},
 				{
@@ -675,7 +675,7 @@
 					"releaseDateAndRating": "August 7, 2013",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n8.2",
-					"rank": "75.",
+					"list_rank": "75.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/c05d1e03f9b4dbd968ec76bb2d913db9-98.jpg"
 				},
 				{
@@ -684,7 +684,7 @@
 					"releaseDateAndRating": "October 26, 2011",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n8.8",
-					"rank": "76.",
+					"list_rank": "76.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/377e5d62f4fc315e330a9baab388edde-98.jpg"
 				},
 				{
@@ -693,7 +693,7 @@
 					"releaseDateAndRating": "January 1, 2012",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n9.1",
-					"rank": "77.",
+					"list_rank": "77.",
 					"image_url": "https://static.metacritic.com/images/products/tv/4/525c42f7a1b036d6716878d6b59f28e9-98.jpg"
 				},
 				{
@@ -702,7 +702,7 @@
 					"releaseDateAndRating": "August 15, 1992",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n7.3",
-					"rank": "78.",
+					"list_rank": "78.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/6e3d8b562b95c82cd4b1c43e0b2b2721-98.jpg"
 				},
 				{
@@ -711,7 +711,7 @@
 					"releaseDateAndRating": "March 31, 2013",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n9.2",
-					"rank": "79.",
+					"list_rank": "79.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/25b577800d6e543af264cab55c5e07d6-98.jpg"
 				},
 				{
@@ -720,7 +720,7 @@
 					"releaseDateAndRating": "September 26, 2010",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n8.6",
-					"rank": "80.",
+					"list_rank": "80.",
 					"image_url": "https://static.metacritic.com/images/products/tv/0/5e27064147a286b8ea2e31856e072237-98.jpg"
 				},
 				{
@@ -729,7 +729,7 @@
 					"releaseDateAndRating": "February 18, 2021",
 					"meta_score": "Metascore:\n\n91",
 					"user_score": "User Score:\n\n8.5",
-					"rank": "81.",
+					"list_rank": "81.",
 					"image_url": "https://static.metacritic.com/images/products/tv/4/bef6aee068055737bdf04b2ced4df242-98.jpg"
 				},
 				{
@@ -738,7 +738,7 @@
 					"releaseDateAndRating": "March 26, 2018",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n6.9",
-					"rank": "82.",
+					"list_rank": "82.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/8c53385bc8fa93d3e5ee7f576c6837ed-98.jpg"
 				},
 				{
@@ -747,7 +747,7 @@
 					"releaseDateAndRating": "September 23, 2016",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n6.6",
-					"rank": "83.",
+					"list_rank": "83.",
 					"image_url": "https://static.metacritic.com/images/products/tv/3/24cb7513b964e5aa7a5d7c9d26583471-98.jpg"
 				},
 				{
@@ -756,7 +756,7 @@
 					"releaseDateAndRating": "January 8, 2013",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.9",
-					"rank": "84.",
+					"list_rank": "84.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/2b03a97f21d7610731f5b5a2ff0fcc90-98.jpg"
 				},
 				{
@@ -765,7 +765,7 @@
 					"releaseDateAndRating": "March 10, 2021",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n7.6",
-					"rank": "85.",
+					"list_rank": "85.",
 					"image_url": "https://static.metacritic.com/images/products/tv/9/78c5c49adc7c43f2d45209da67de6836-98.jpg"
 				},
 				{
@@ -774,7 +774,7 @@
 					"releaseDateAndRating": "October 5, 2018",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n6.9",
-					"rank": "86.",
+					"list_rank": "86.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/7f4f64333ce82d2ad37dd84aeed79d3c-98.jpg"
 				},
 				{
@@ -783,7 +783,7 @@
 					"releaseDateAndRating": "July 10, 2016",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.8",
-					"rank": "87.",
+					"list_rank": "87.",
 					"image_url": "https://static.metacritic.com/images/products/tv/9/ed3b0bae0fa52db15d33997ecd6b82d9-98.jpg"
 				},
 				{
@@ -792,7 +792,7 @@
 					"releaseDateAndRating": "September 6, 2016",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.7",
-					"rank": "88.",
+					"list_rank": "88.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/50e94f1be303e30486d2a9d19ab89662-98.jpg"
 				},
 				{
@@ -801,7 +801,7 @@
 					"releaseDateAndRating": "April 19, 2020",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.8",
-					"rank": "89.",
+					"list_rank": "89.",
 					"image_url": "https://static.metacritic.com/images/products/tv/8/5a6f27965ef2e3b9c6c41d7ba2cb7e19-98.jpg"
 				},
 				{
@@ -810,7 +810,7 @@
 					"releaseDateAndRating": "April 16, 2000",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.0",
-					"rank": "90.",
+					"list_rank": "90.",
 					"image_url": "https://static.metacritic.com/images/products/tv/6/527f0be740b76e0093997ec953b7ff1f-98.jpg"
 				},
 				{
@@ -819,7 +819,7 @@
 					"releaseDateAndRating": "July 17, 2015",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.9",
-					"rank": "91.",
+					"list_rank": "91.",
 					"image_url": "https://static.metacritic.com/images/products/tv/9/550afe466bcfd77e54b317afa312de77-98.jpg"
 				},
 				{
@@ -828,7 +828,7 @@
 					"releaseDateAndRating": "May 30, 2006",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.5",
-					"rank": "92.",
+					"list_rank": "92.",
 					"image_url": "https://static.metacritic.com/images/products/tv/2/a17506aff46a08e90974513da9ee0a44-98.jpg"
 				},
 				{
@@ -837,7 +837,7 @@
 					"releaseDateAndRating": "June 23, 2011",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.6",
-					"rank": "93.",
+					"list_rank": "93.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/683318ad518ed62cc0289d500a3fc01a-98.jpg"
 				},
 				{
@@ -846,7 +846,7 @@
 					"releaseDateAndRating": "February 2, 2016",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.6",
-					"rank": "94.",
+					"list_rank": "94.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/88add4051fd2ab38d0ec2d424e555100-98.jpg"
 				},
 				{
@@ -855,7 +855,7 @@
 					"releaseDateAndRating": "April 24, 2016",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.9",
-					"rank": "95.",
+					"list_rank": "95.",
 					"image_url": "https://static.metacritic.com/images/products/tv/6/e71ee98ad2fb3dc328ffb10e8ab6cfae-98.jpg"
 				},
 				{
@@ -864,7 +864,7 @@
 					"releaseDateAndRating": "July 23, 2017",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n6.6",
-					"rank": "96.",
+					"list_rank": "96.",
 					"image_url": "https://static.metacritic.com/images/products/tv/4/4566971aa2c0cffc18c2a4a8ed730ac1-98.jpg"
 				},
 				{
@@ -873,7 +873,7 @@
 					"releaseDateAndRating": "April 1, 2012",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n9.1",
-					"rank": "97.",
+					"list_rank": "97.",
 					"image_url": "https://static.metacritic.com/images/products/tv/5/25b577800d6e543af264cab55c5e07d6-98.jpg"
 				},
 				{
@@ -882,7 +882,7 @@
 					"releaseDateAndRating": "September 17, 2017",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.4",
-					"rank": "98.",
+					"list_rank": "98.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/8cc7c272fd1b634fba71be5d2ef48edd-98.jpg"
 				},
 				{
@@ -891,7 +891,7 @@
 					"releaseDateAndRating": "April 29, 2012",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n8.3",
-					"rank": "99.",
+					"list_rank": "99.",
 					"image_url": "https://static.metacritic.com/images/products/tv/6/05c762ceb9cc66ff4a7a89fefc60db48-98.jpg"
 				},
 				{
@@ -900,7 +900,7 @@
 					"releaseDateAndRating": "March 12, 2017",
 					"meta_score": "Metascore:\n\n90",
 					"user_score": "User Score:\n\n7.1",
-					"rank": "100.",
+					"list_rank": "100.",
 					"image_url": "https://static.metacritic.com/images/products/tv/1/f948c743ea655756df1583aee29de475-98.jpg"
 				}
 			]
