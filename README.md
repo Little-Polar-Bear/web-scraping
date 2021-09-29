@@ -1,2 +1,2 @@
 # web-scraping
-Repository dedicated to web-scraping conten.
+Repository dedicated to web-scraping content.
